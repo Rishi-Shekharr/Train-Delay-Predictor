@@ -1,3 +1,5 @@
 requests
 pandas
 pytz
+requests
+beautifulsoup4
